@@ -30,13 +30,6 @@ A smart Android application for tracking personal expenses, managing budgets, an
   </table>
 </div>
 
-## 🛠 Technology Stack
-
-**Frontend:**
-- Android SDK (Java/Kotlin)
-- XML for UI layouts
-- Material Design Components
-
 
 
 ### Setup
